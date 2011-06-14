@@ -1,6 +1,6 @@
 ﻿Moodle-FlashUpload
-Helmut Geppl helmut.geppl@donau-uni.ac.at
-Ramon Antonio Parada rap@ramonantonio.net
+Copyright 2007 Helmut Geppl <helmut.geppl@donau-uni.ac.at>
+Copyright 2011 Ramon Antonio Parada <rap@ramonantonio.net>
 
 
 (enables multiple file-upload in your browser using Flash)
